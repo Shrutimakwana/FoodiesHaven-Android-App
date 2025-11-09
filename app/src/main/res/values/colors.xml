@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Orange Shades -->
+    <color name="dark_orange">#D35400</color>  <!-- Dark Orange -->
+    <color name="light_orange">#E67E22</color>  <!-- Lighter Orange -->
+    <color name="orange">#D17842</color>  <!-- Medium Orange -->
+
+    <!-- Greyscale -->
+    <color name="grey">#666666</color>
+    <color name="darkGrey">#1A1A1A</color>  <!-- Dark Background -->
+    <color name="lightGrey">#626160</color>  <!-- Light Text -->
+
+    <!-- Additional Enhancements -->
+    <color name="priceColor">#E53935</color>  <!-- 🔴 Bright Red for Price -->
+    <color name="orderButtonColor">#4CAF50</color>  <!-- 🟢 Green Order Button -->
+    <color name="orderButtonTextColor">#FFFFFF</color>  <!-- ⚪ White Button Text -->
+    <color name="accentColor">#FFC107</color>  <!-- 🟡 Gold Accent -->
+    <color name="dividerColor">#BDBDBD</color>  <!-- Grey Divider -->
+
+</resources>

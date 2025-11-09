@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Foodie\'s Haven</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_description">Image in slider</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string-array name="payment_methods">
+        <item>Cash on Delivery</item>
+        <item>UPI Payment</item>
+        <item>Credit/Debit Card</item>
+    </string-array>
+</resources>

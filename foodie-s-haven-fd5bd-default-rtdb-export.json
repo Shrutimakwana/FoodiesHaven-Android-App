@@ -1,0 +1,239 @@
+{
+  "Foods": [
+    {
+      "BestFood": true,
+      "CategoryId": 0,
+      "Description": "A timeless classic, the Margherita pizza captures the essence of Italian simplicity. The thin, crispy crust is adorned with a luscious layer of fresh tomato sauce, delicate mozzarella cheese, and fragrant basil leaves. This pizza is a celebration of flavors in every bite, delivering a taste of Italy to your palate.",
+      "Id": 0,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Margherita%20Flatbread.jpg?alt=media&token=d79daa6d-a9e2-4ba8-900d-271eca183705",
+      "LocationId": 1,
+      "Price": 10.99,
+      "PriceId": 1,
+      "Star": 4.5,
+      "TimeId": 1,
+      "TimeValue": 15,
+      "Title": "Margherita"
+    },
+    {
+      "BestFood": true,
+      "CategoryId": 0,
+      "Description": "Indulge in the Pepperoni Lovers pizza, a carnivore's dream come true. The crust is generously topped with zesty pepperoni slices, perfectly melding with the melted mozzarella and robust tomato sauce. Each mouthful is a symphony of savory and spicy notes, making it a go-to choice for those who savor the boldness of pepperoni.",
+      "Id": 1,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Pepperoni%20Lovers.jpg?alt=media&token=d9d172ff-eb4b-4149-bcc5-5690994a0f1f",
+      "LocationId": 1,
+      "Price": 12.99,
+      "PriceId": 1,
+      "Star": 4.7,
+      "TimeId": 1,
+      "TimeValue": 18,
+      "Title": "Pepperoni Lovers"
+    },
+    {
+      "BestFood": false,
+      "CategoryId": 0,
+      "Description": "The Veggie Supreme pizza is a colorful masterpiece that caters to vegetarian cravings. Loaded with a medley of bell peppers, onions, olives, and mushrooms, this pizza offers a symphony of textures and tastes. The combination of fresh, vibrant vegetables atop a golden crust creates a delightful and satisfying experience.",
+      "Id": 2,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Veggie%20Supreme.jpg?alt=media&token=cfddce97-575a-49af-b330-9299d0d9f776",
+      "LocationId": 1,
+      "Price": 11.99,
+      "PriceId": 1,
+      "Star": 4.5,
+      "TimeId": 1,
+      "TimeValue": 20,
+      "Title": "Veggie Supreme"
+    },
+    {
+      "BestFood": false,
+      "CategoryId": 0,
+      "Description": "Experience the smoky allure of the BBQ Chicken Delight pizza. Succulent pieces of BBQ-infused chicken are paired with the sweetness of red onions and the crunch of bell peppers. All of this is embraced by a delectable blend of cheeses, making every slice a journey into the world of bold barbecue flavors.",
+      "Id": 3,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/BBQ%20Chicken%20Delight.jpg?alt=media&token=5f42cf73-af4e-4e11-bb02-80a3ff2d136d",
+      "LocationId": 1,
+      "Price": 13.99,
+      "PriceId": 1,
+      "Star": 4.6,
+      "TimeId": 1,
+      "TimeValue": 22,
+      "Title": "BBQ Chicken Delight"
+    },
+    {
+      "BestFood": true,
+      "CategoryId": 0,
+      "Description": "Transport your taste buds to a tropical paradise with the Hawaiian pizza. This delightful creation features a harmonious blend of savory ham, juicy pineapple chunks, and a tantalizing drizzle of BBQ sauce. Each bite is a blissful combination of sweet and savory, capturing the essence of a Hawaiian escape.",
+      "Id": 4,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Hawaiian%20Paradise.jpg?alt=media&token=ea25596d-f1ec-4219-9f03-4a8f3448b113",
+      "LocationId": 0,
+      "Price": 11.99,
+      "PriceId": 1,
+      "Star": 4.3,
+      "TimeId": 1,
+      "TimeValue": 17,
+      "Title": "Hawaiian Paradise"
+    },
+    {
+      "BestFood": false,
+      "CategoryId": 0,
+      "Description": "The Meat Feast pizza is a carnivore's extravaganza, boasting a tantalizing assortment of meats. From savory sausage to crispy bacon and zesty pepperoni, this pizza is a flavor-packed journey through the rich and hearty world of meaty goodness. Perfect for those who crave a protein-packed pizza experience.",
+      "Id": 5,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Meat%20Feast%20pizza.jpg?alt=media&token=0bf024d4-4f26-4237-8479-1a346dc5c537",
+      "LocationId": 1,
+      "Price": 14.99,
+      "PriceId": 1,
+      "Star": 4.8,
+      "TimeId": 2,
+      "TimeValue": 35,
+      "Title": "Meat Feast"
+    },
+    {
+      "BestFood": false,
+      "CategoryId": 0,
+      "Description": "https://firebasestorage.googleapis.com/v0/b/fir-test-aa9c8.appspot.com/o/Mediterranean%20Joy.jpg?alt=media&token=d1fba67f-e182-4c77-8ec2-cb9b1f459605",
+      "Id": 6,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Mediterranean%20Joy.jpg?alt=media&token=2855007a-925e-4d0d-9167-5a41dcb96065",
+      "LocationId": 1,
+      "Price": 12.99,
+      "PriceId": 1,
+      "Star": 4.5,
+      "TimeId": 1,
+      "TimeValue": 21,
+      "Title": "Mediterranean Joy"
+    },
+    {
+      "BestFood": false,
+      "CategoryId": 0,
+      "Description": "Cheese enthusiasts rejoice in the Four Cheese Delight pizza. A symphony of mozzarella, cheddar, parmesan, and feta cheeses come together to create a mouthwatering blend of cheesy perfection. Each bite is a celebration of indulgence for those who appreciate the rich and diverse world of cheeses.",
+      "Id": 7,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Four%20Cheese%20Delight.jpg?alt=media&token=79e557b6-7419-4b81-a0f4-443a68651373",
+      "LocationId": 0,
+      "Price": 13.99,
+      "PriceId": 1,
+      "Star": 4.7,
+      "TimeId": 1,
+      "TimeValue": 23,
+      "Title": "Four Cheese Delight"
+    },
+    {
+      "BestFood": true,
+      "CategoryId": 1,
+      "Description": "Embrace the simplicity of the Classic Beef Burger, featuring a juicy beef patty nestled between a toasted sesame seed bun. Topped with crisp lettuce, ripe tomato, and a special sauce, it's a timeless rendition of the all-American burger.",
+      "Id": 8,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Classic%20Beef%20Burger.jpg?alt=media&token=97db8d6d-8c0d-4d22-b13d-31714244eab3",
+      "LocationId": 1,
+      "Price": 8.99,
+      "PriceId": 0,
+      "Star": 4.5,
+      "TimeId": 1,
+      "TimeValue": 15,
+      "Title": "Classic Beef Burger"
+    },
+    {
+      "BestFood": false,
+      "CategoryId": 1,
+      "Description": "A flame-grilled chicken patty, seasoned to perfection and served with fresh lettuce, tomato, and a tangy sauce. The Grilled Chicken Burger offers a healthy yet flavorful alternative to the traditional beef burger.",
+      "Id": 9,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Grilled%20Chicken%20Burger.jpg?alt=media&token=c96f26ed-bbfc-4f97-8f42-7904d13c03b0",
+      "LocationId": 0,
+      "Price": 7.99,
+      "PriceId": 0,
+      "Star": 4.3,
+      "TimeId": 1,
+      "TimeValue": 18,
+      "Title": "Grilled Chicken Burger"
+    },
+    {
+      "BestFood": false,
+      "CategoryId": 1,
+      "Description": "The Veggie Burger offers a hearty patty made from fresh vegetables and grains, seasoned to perfection. Topped with crispy lettuce, tomato, and your choice of condiments, this burger is a satisfying option for those seeking a plant-based delight.",
+      "Id": 10,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Veggie%20Burger.jpg?alt=media&token=566f90f4-85fb-464f-82e1-e91c8b90e982",
+      "LocationId": 0,
+      "Price": 9.49,
+      "PriceId": 0,
+      "Star": 4.2,
+      "TimeId": 1,
+      "TimeValue": 20,
+      "Title": "Veggie Burger"
+    },
+    {
+      "BestFood": true,
+      "CategoryId": 1,
+      "Description": "The Bacon Cheeseburger is a classic indulgence. A juicy beef patty is paired with crispy bacon, melted cheddar cheese, and topped with lettuce, tomato, and a special sauce. It’s a mouthwatering combination of smoky, savory, and cheesy goodness.",
+      "Id": 11,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Bacon%20Cheeseburger.jpg?alt=media&token=c96f26ed-bbfc-4f97-8f42-7904d13c03b0",
+      "LocationId": 0,
+      "Price": 10.99,
+      "PriceId": 0,
+      "Star": 4.6,
+      "TimeId": 1,
+      "TimeValue": 22,
+      "Title": "Bacon Cheeseburger"
+    }
+  ],
+  "categories": {
+    "-M1aB4fTxy1UoXDFKj1z": {
+      "id": 1,
+      "imageUrl": "pizza",
+      "isActive": true,
+      "isFeatured": true,
+      "title": "Pizza"
+    },
+    "-M1aB4fTxy1UoXDFKj2z": {
+      "id": 2,
+      "imageUrl": "burger",
+      "isActive": true,
+      "isFeatured": false,
+      "title": "Burger"
+    },
+    "-M1aB4fTxy1UoXDFKj3z": {
+      "id": 3,
+      "imageUrl": "sandwich",
+      "isActive": true,
+      "isFeatured": false,
+      "title": "Sandwich"
+    },
+    "-M1aB4fTxy1UoXDFKj4z": {
+      "id": 4,
+      "imageUrl": "pasta",
+      "isActive": true,
+      "isFeatured": false,
+      "title": "Pasta"
+    },
+    "-M1aB4fTxy1UoXDFKj5z": {
+      "id": 5,
+      "imageUrl": "momos",
+      "isActive": true,
+      "isFeatured": false,
+      "title": "Momos"
+    },
+    "-M1aB4fTxy1UoXDFKj6z": {
+      "id": 6,
+      "imageUrl": "dosa",
+      "isActive": true,
+      "isFeatured": false,
+      "title": "Dosa"
+    },
+    "-M1aB4fTxy1UoXDFKj7z": {
+      "id": 7,
+      "imageUrl": "soup",
+      "isActive": true,
+      "isFeatured": false,
+      "title": "Soup"
+    }
+  },
+  "contacts": {
+    "-OHlDwpzNijpoL0txEnW": {
+      "email": "shrutimakwana113@gmail.com",
+      "message": "Hi",
+      "name": "shruti"
+    }
+  },
+  "users": {
+    "-OHlDkiLetpWXcoIHj-L": {
+      "address": "Rajkot",
+      "email": "shrutimakwana113@gmail.com",
+      "mobile": "9974401442",
+      "name": "Shruti Makwana",
+      "password": "Sh@123"
+    }
+  }
+}

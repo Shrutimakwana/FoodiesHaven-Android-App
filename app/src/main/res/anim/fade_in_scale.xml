@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fade in animation -->
+    <alpha
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="1000" /> <!-- Duration for fade-in -->
+
+    <!-- Scale animation -->
+    <scale
+        android:fromXScale="0.5"
+        android:toXScale="1"
+        android:fromYScale="0.5"
+        android:toYScale="1"
+        android:duration="1000" /> <!-- Duration for scale -->
+
+    <!-- Rotate animation -->
+    <rotate
+        android:fromDegrees="0"
+        android:toDegrees="360"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:duration="1000" /> <!-- Duration for rotation -->
+</set>

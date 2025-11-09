@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711462606985",
+    "project_id": "foodie-s-haven-fd5bd",
+    "storage_bucket": "foodie-s-haven-fd5bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711462606985:android:b099be06a1161bd4fa8e58",
+        "android_client_info": {
+          "package_name": "com.example.foodieshaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC572t5K3MbuYOzeSSX9OFsxX3sDihCSBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
